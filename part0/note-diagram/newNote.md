@@ -1,3 +1,5 @@
+
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -43,3 +45,5 @@ sequenceDiagram
     deactivate browser
 
     Note right of user: The new note is successfully saved
+
+    ```

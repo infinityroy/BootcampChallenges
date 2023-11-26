@@ -1,3 +1,5 @@
+```mermaid
+
 sequenceDiagram
     participant browser
     participant server
@@ -14,4 +16,6 @@ sequenceDiagram
     deactivate server
 
 
-    Note right of browser: User access suscefully to spa
+    Note right of browser: User access suscefully
+
+    ```

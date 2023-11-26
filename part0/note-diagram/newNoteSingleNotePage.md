@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant spa
@@ -28,3 +29,5 @@ sequenceDiagram
     deactivate spa
 
     Note right of user: The new note is successfully saved in the SPA without a page reload
+
+    ```
