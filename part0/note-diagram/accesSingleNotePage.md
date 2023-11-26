@@ -1,5 +1,4 @@
 ```mermaid
-
 sequenceDiagram
     participant browser
     participant server
@@ -17,5 +16,3 @@ sequenceDiagram
 
 
     Note right of browser: User access suscefully
-
-    ```

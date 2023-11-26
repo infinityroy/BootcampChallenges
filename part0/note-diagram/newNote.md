@@ -45,5 +45,3 @@ sequenceDiagram
     deactivate browser
 
     Note right of user: The new note is successfully saved
-
-    ```
